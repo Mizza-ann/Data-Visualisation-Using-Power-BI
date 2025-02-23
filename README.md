@@ -1,3 +1,3 @@
-# E-Commerce-Data-Analysis---Power-BI-Project
+# Data Visualisation using Power BI
 
-Dashboard - Data Visualisation using Power BI
+
